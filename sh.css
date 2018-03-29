@@ -1,0 +1,38 @@
+.content_wrapper{
+    display: grid;
+    height: 96vh;
+    grid-template-columns: 100%;
+    grid-template-rows: 12% 78% 10%;
+    margin: 0 auto;
+}
+
+div, nav, header, footer {
+    border: 2px solid rgb(233,171,88);
+    border-radius: 5px;
+    background-color: rgba(233,171,88,.5);
+    color: #d9480f;
+}
+
+#content{
+    display: grid;
+    grid-template-columns: 15% 70% 15%;
+}
+
+#left_content{
+    display: grid;
+    grid-template-rows: 20% 80%;
+}
+
+#center_content {
+    display: grid;
+    grid-template-rows: 10% 90%;
+}
+
+#right_content{
+    display: grid;
+    grid-template-rows: 30% 70%;
+}
+
+footer{
+
+}
