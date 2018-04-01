@@ -8,7 +8,9 @@ LMS Project
 据说要在5月下旬之前写完，要是写得完Ignis绝对是疯了，肝肯定废了。<br>
 
 --明明写的很开心啊喂--<br>
+--明明……写了2天就没push过啊喂--<br>
 感谢协助Ignis开发的朋友，谢谢你们。<br>
 
 Project by Ignis<br>
 build by Ignis; zerocat<br>
+

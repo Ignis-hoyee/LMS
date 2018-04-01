@@ -13,6 +13,10 @@ div, nav, header, footer {
     color: #d9480f;
 }
 
+#nav_align{
+    text-align: center;
+}
+
 #content{
     display: grid;
     grid-template-columns: 15% 70% 15%;
@@ -33,6 +37,10 @@ div, nav, header, footer {
     grid-template-rows: 30% 70%;
 }
 
-footer{
+#news{
+    display: grid;
+}
 
+footer{
+    text-align: center;
 }
