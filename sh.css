@@ -41,6 +41,10 @@ div, nav, header, footer {
     display: grid;
 }
 
+header{
+    text-align: center;
+}
+
 footer{
     text-align: center;
 }
