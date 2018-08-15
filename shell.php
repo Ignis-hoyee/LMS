@@ -10,14 +10,12 @@ function database()
 {
     $dblink = "localhost";
     $dbuser = "root";
-    $dbpawd = "Liang19960813";
+    $dbpawd = "lhr19960813";
 
     $conn = mysqli_connect($dblink, $dbuser, $dbpawd);
 
     if (!$conn){
-        die("connection failed" . mysqli_connect_error());
+        die("connection failed:" . mysqli_connect_error());
     }
-    echo "Connection completed.";
 }
-
 ?>
